@@ -19,7 +19,7 @@ Predict if a person is diabetic based on:
 - BMI
 - Age
 
-We use a Random Forest Classifier trained on the **Pima Indians Diabetes Dataset**.
+We use a knn Forest Classifier trained on the **Pima Indians Diabetes Dataset**.
 
 ---
 
